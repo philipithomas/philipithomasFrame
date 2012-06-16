@@ -1,9 +1,10 @@
 <?php
-session_start()
-require_once('settings.php');
+session_start();
+require_once("settings.php");
 ?>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title><?php echo $title; ?></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title><?php echo $title; ?></title>
 
 <!--
 Viewing source code is a sign of intelligence! This CSS is available at http://github.com/philipithomas/philipithomasFrame as an open-source project!
