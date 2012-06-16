@@ -1,0 +1,20 @@
+<?php
+require_once('header.inc');
+?>
+<p>
+<h1>Header 1</h1>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices euismod tortor eu mattis. Nulla pretium sollicitudin mi ac laoreet. Donec ultrices turpis eget odio consectetur pulvinar. Suspendisse faucibus nisl id metus elementum in auctor lectus molestie. Vestibulum enim lorem, elementum a scelerisque nec, varius posuere augue. Phasellus ipsum justo, venenatis id commodo vel, consequat sit amet massa. Curabitur vestibulum, nibh ut hendrerit semper, elit lectus ornare lacus, tristique porttitor ipsum nisl tincidunt diam. Praesent vel mi lorem.
+
+Quisque id augue vel ipsum consequat gravida. Integer a nibh sem. Aenean nec orci orci, non consequat ante. Aliquam cursus sagittis purus. Pellentesque rutrum, nulla id auctor aliquet, risus mi porta est, et convallis eros elit eu dui. Nulla consectetur odio vitae mi mollis mattis. Nullam libero sem, sodales ac dapibus vel, venenatis non augue. Duis volutpat, metus nec euismod vulputate, purus ipsum faucibus nisi, ut ornare felis est et dolor. Maecenas faucibus convallis tellus, a malesuada tellus consectetur sit amet. Curabitur ut euismod orci. Vivamus non sem eu urna ornare varius. Sed at libero orci, et mattis magna. Donec posuere posuere tincidunt. Nulla rhoncus pellentesque nunc vitae tincidunt. Nunc auctor consequat venenatis.
+<h2>Header 2</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices euismod tortor eu mattis. Nulla pretium sollicitudin mi ac laoreet. Donec ultrices turpis eget odio consectetur pulvinar. Suspendisse faucibus nisl id metus elementum in auctor lectus molestie. Vestibulum enim lorem, elementum a scelerisque nec, varius posuere augue. Phasellus ipsum justo, venenatis id commodo vel, consequat sit amet massa. Curabitur vestibulum, nibh ut hendrerit semper, elit lectus ornare lacus, tristique porttitor ipsum nisl tincidunt diam. Praesent vel mi lorem.
+
+Quisque id augue vel ipsum consequat gravida. Integer a nibh sem. Aenean nec orci orci, non consequat ante. Aliquam cursus sagittis purus. Pellentesque rutrum, nulla id auctor aliquet, risus mi porta est, et convallis eros elit eu dui. Nulla consectetur odio vitae mi mollis mattis. Nullam libero sem, sodales ac dapibus vel, venenatis non augue. Duis volutpat, metus nec euismod vulputate, purus ipsum faucibus nisi, ut ornare felis est et dolor. Maecenas faucibus convallis tellus, a malesuada tellus consectetur sit amet. Curabitur ut euismod orci. Vivamus non sem eu urna ornare varius. Sed at libero orci, et mattis magna. Donec posuere posuere tincidunt. Nulla rhoncus pellentesque nunc vitae tincidunt. Nunc auctor consequat venenatis.
+<h3>Header 3</h3>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices euismod tortor eu mattis. Nulla pretium sollicitudin mi ac laoreet. Donec ultrices turpis eget odio consectetur pulvinar. Suspendisse faucibus nisl id metus elementum in auctor lectus molestie. Vestibulum enim lorem, elementum a scelerisque nec, varius posuere augue. Phasellus ipsum justo, venenatis id commodo vel, consequat sit amet massa. Curabitur vestibulum, nibh ut hendrerit semper, elit lectus ornare lacus, tristique porttitor ipsum nisl tincidunt diam. Praesent vel mi lorem.
+
+Quisque id augue vel ipsum consequat gravida. Integer a nibh sem. Aenean nec orci orci, non consequat ante. Aliquam cursus sagittis purus. Pellentesque rutrum, nulla id auctor aliquet, risus mi porta est, et convallis eros elit eu dui. Nulla consectetur odio vitae mi mollis mattis. Nullam libero sem, sodales ac dapibus vel, venenatis non augue. Duis volutpat, metus nec euismod vulputate, purus ipsum faucibus nisi, ut ornare felis est et dolor. Maecenas faucibus convallis tellus, a malesuada tellus consectetur sit amet. Curabitur ut euismod orci. Vivamus non sem eu urna ornare varius. Sed at libero orci, et mattis magna. Donec posuere posuere tincidunt. Nulla rhoncus pellentesque nunc vitae tincidunt. Nunc auctor consequat venenatis.
+</p>
+<?php
+require_once('footer.inc');
+?>
