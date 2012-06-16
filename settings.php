@@ -2,7 +2,7 @@
 /*
 * Welcome to philipithomasFrame, by Philip I. Thomas, http://philipithomas.com 
 * This file on Github: http://github.com/philipithomas/philipithomasFrame
-* See the example file: http://philipithomasFrame.github.com
+* See the example file: http://old.philipithomas.com
 * This CSS/design is available free of charge under the Apache License version 2.0 - http://www.apache.org/licenses/LICENSE-2.0.html
 * This settings file along with logo.png and favicon.ico contain example data that you can delete or modify without attribution.
 *
